@@ -21,6 +21,7 @@ namespace Task
             Write("Введите количество элементов: ");
             int size = Convert.ToInt32(ReadLine());
             Random rand = new Random();
+            WriteLine();
             for(int i = 0; i < size; i++)
             {
                 list.Add(rand.Next(50));
@@ -34,7 +35,15 @@ namespace Task
                 else if (list[i] > maxSecond)
                     maxSecond = list[i];
             }
-            WriteLine("\nВторое максимальное число = " + maxSecond + "[" + list.IndexOf(maxSecond) + "]");
+            WriteLine("\n\nВторое максимальное число = " + maxSecond + "[" + list.IndexOf(maxSecond) + "]");
+            WriteLine();
+            int sum = 0;
+            for(int i = 0; i < size; i++)
+            {
+                if (i % 2 == 0)
+                    sum += list[i];
+            }
+            WriteLine("Сумма элементов на четных позициях = " + sum);
             ReadLine();
         }
     }

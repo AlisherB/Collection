@@ -4,3 +4,10 @@ C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Collection\HW_
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Collection\HW_Collection\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Collection\HW_Collection\Task\obj\Debug\Task.exe
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\Collection\HW_Collection\Task\obj\Debug\Task.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\Collection\HW_Collection\Task\bin\Debug\Task.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\Collection\HW_Collection\Task\bin\Debug\Task.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\Collection\HW_Collection\Task\bin\Debug\Task.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\Collection\HW_Collection\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\Collection\HW_Collection\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\Collection\HW_Collection\Task\obj\Debug\Task.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\Collection\HW_Collection\Task\obj\Debug\Task.pdb
